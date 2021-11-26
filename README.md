@@ -31,6 +31,6 @@ The second case is quite easy to complete. The user only has to choose the optio
 
 In the third case, the user is provided with a password in order to access directly to the waste. Like the other cases, all of the interaction is with the keypad, so when the password is correct, there on the screen will appear the available options and they will be able to open or close the gates that save the waste.
 
-Whatever the case was chosen, the user will be guided by the messages on the screen.
+Whatever the case is chosen, the user will be guided by the messages on the screen.
 
 # Testing
