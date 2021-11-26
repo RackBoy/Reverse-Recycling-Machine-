@@ -5,7 +5,7 @@ Final stage of the technological and environment project, made by Green Technolo
 Nowadays, climate change has become a critial situation that envolves almost everything and everyone. Having this in mind, the Green Technology team has conceived, designed and implemented a prototype version of a machine that pretends to save waste in exchange of points (an equivalen to real money), therefore in that way, people can help the invironment while get some money in the process.
 
 # Features
-This project presents the interaction between three different kind of users, in order to reclycle waste (pre-registered user), register as a new user and clean the waste desposit. This was made using an embebided system, with a Raspberry Pi 3 B+ and a Arduino Uno. 
+This project presents the interaction between three different kind of users, in order to reclycle waste (pre-registered user), register as a new user and clean the waste desposit. This was made using an embebided system, with a Raspberry Pi 3 B+ and an Arduino Uno. 
 
 In the first stage (user already registered), the potential user will be able to log in to their account using an specific password, then, the interface will led to the recycling process and add new points to their account. Once these points reach a certain amount, the user can exchange them for something of their preference such as: a snack or a coffee at the available stores. 
 
@@ -22,5 +22,15 @@ Considering that the Reverse Recycling Machine is just a prototype version of th
 On the other hand, the dimensions of the device aren't real, that is, it's made only for prototype considerations, not for real users. That's why the machine can't allow huge quantities of waste, different types of it and further information already presented.
 
 # Usage
+
+This machine possesses a matricial keyboard and an LCD screen to interact with the previous features mentioned. Once the machine is ON, the three options appear on the screen, so the user can choose what they need only pressing the corresponding option which is defined to an specific number, depending on the case. 
+
+In the first case, the use has to introduce their corresponding password, then choose the number of add waste and put the waste into one of the holes (corresponding in the dimensions of the waste), after that, the screen will show if the process was succes with the new points acquired.
+
+The second case is quite easy to complete. The user only has to choose the option of register new user, type their password and confirm with an specific letter, thats it. Then, when they recycle, just use the first case.
+
+In the third case, the user is provided with a password in order to access directly to the waste. Like the other cases, all of the interaction is with the keypad, so when the password is correct, there on the screen will appear the available options and they will be able to open or close the gates that save the waste.
+
+Whatever the case was chosen, the user will be guided by the messages on the screen.
 
 # Testing
