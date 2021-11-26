@@ -7,7 +7,7 @@ Nowadays, climate change has become a critial situation that envolves almost eve
 # Features
 This project presents the interaction between three different kind of users, in order to reclycle waste (pre-registered user), register as a new user and clean the waste desposit. This was made using an embebided system, with a Raspberry Pi 3 B+ and an Arduino Uno. 
 
-In the first stage (user already registered), the potential user will be able to log in to their account using an specific password, then, the interface will led to the recycling process and add new points to their account. Once these points reach a certain amount, the user can exchange them for something of their preference such as: a snack or a coffee at the available stores. 
+In the first stage (user already registered), the potential user will be able to log in to their account using an specific password, then, the interface will led them to the recycling process and add new points to their account. Once these points reach a certain amount, the user can exchange them for something of their preference such as: a snack or a coffee at the available stores. 
 
 If someone would like to use the device, however they don't have an account, the second section of the user cases can provide one. This process can be done following the instructions on the user interface, in other words, typing the new password and then confirm to be a new user.
 
@@ -17,7 +17,7 @@ In order to provide aditional information about the users' stats, this project p
 
 # Limitations 
 
-Considering that the Reverse Recycling Machine is just a prototype version of the concept itself, there are certain aspects to develop further. One of those is the capacity of the new user the embebided system can allow and the way that it do it, since here it presents a demo with a few users. This considering the Hardware used and other aspects.
+Considering that the Reverse Recycling Machine is just a prototype version of the concept itself, there are certain aspects to develop further. One of those is the capacity of the new user that the embebided system can allow and the way that it do it, since here it presents a demo with a few users. This considering the Hardware used and other aspects.
 
 On the other hand, the dimensions of the device aren't real, that is, it's made only for prototype considerations, not for real users. That's why the machine can't allow huge quantities of waste, different types of it and further information already presented.
 
