@@ -29,7 +29,7 @@ In the first case, the use has to introduce their corresponding password, then c
 
 The second case is quite easy to complete. The user only has to choose the option of register new user, type their password and confirm with an specific letter, thats it. Then, when they recycle, just use the first case.
 
-In the third case, the user is provided with a password in order to access directly to the waste. Like the other cases, all of the interaction is with the keypad, so when the password is correct, there on the screen will appear the available options and they will be able to open or close the gates that save the waste.
+In the third case, the user is provided with a password in order to access directly to the waste. Like the other cases, all of the interactions are with the keypad, so when the password is correct, there on the screen will appear the available options and they'll be able to open or close the gates that save the waste.
 
 Whatever the case is chosen, the user will be guided by the messages on the screen.
 
