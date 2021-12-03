@@ -1,6 +1,6 @@
 import sys 
 from sbmus import SMBus
-impor time 
+import time 
 
 addr=0x08 #bus dir
 bus=SMBus(1)
