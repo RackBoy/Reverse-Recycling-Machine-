@@ -1,88 +1,96 @@
-INTRODUCCIÓN:
+INTRODUCTION:
 
-Este manual de usuario tiene como finalidad dar a conocer de manera detallada, concisa y sencilla 
-la estructura y funcionamiento del dispositivo "REVERSE RECYCLING MACHINE". Todo esto, para que
-cualquier usuario pueda sacar el máximo provecho del dispostivo.
+The purpose of this user manual is to provide detailed, concise and simple information
+the structure and operation of the "REVERSE RECYCLING MACHINE" device. All this, so that
+any user can make the most of the device.
 
-Este manual tendrá tanto la explicación del manejo de residuos como de la interfaz gráfica. 
-De igual manera, este dispositivo fué diseñado para que cualquier persona pueda utilizarlo,  
-debido a su diseño intuitivo y a la busqueda eficiente dentro del mismo.
+This manual will have both the explanation of waste management and the graphical interface.
+Similarly, this device was designed for anyone to use, due to its intuitive design and efficient 
+search within it.
 
-OBJETIVOS:
+OBJECTIVES:
 
-- Proporcionar al usuario la información necesaria para que pueda utilizar el dispositivo.
-- Facilita el mantenimiento del dispositivo.
-- Dar a conocer a los usuarios las características y funcionamiento del sistema.
-- Contar con instrucciones apropiadas de uso, manejo, mantenimiento y conservación.
-- Conocer el alcance del dispositivo, todo esto por medio de una información detallada.
-- Dar a conocer el correcto manero de la interfaz gráfica.
-- En caso de un daño, conocer los materiales utilizados.
+- Provide the user with the necessary information to use the device.
+- Facilitates the maintenance of the device.
+- To make users aware of the characteristics and functioning of the system.
+- Have appropriate instructions for use, handling, maintenance and conservation.
+- To know the scope of the device, all this by means of a detailed information.
+- To make known the correct way of the graphical interface.
+- In the event of damage, know the materials used.
 
 
-1. DISEÑO DE LA INTERFAZ:
+1. DESIGN OF THE INTERFACE:
 
-El diseño de debe garantizar que las interfaces y los espacios interactivos, cumplan con 
-las espectativas y necesidades de los usuarios. Es por ello, que se buscó que cada uno
-de los aspectos que los conforman sean lo más faciles de entender y manejar.
+The design of should ensure that interfaces and interactive spaces comply with
+expectations and needs of users. That is why, it was sought that each and every
+of the aspects that make them up are the easiest to understand and manage.
 
-- Ingreso: Para poder acceder al sistema, el usuario debe ingresar con su cédula y contraseña
-esto permite que el sistema verifique en la base de datos si el usuario existe o no y así
-permita el ingreso a la página princial.
+- Login: In order to access the system, the user must enter with their card and password
+this allows the system to verify in the database whether the user exists or not and so
+allows access to the home page.
 
-- Registro: Si el usuario aún no se encuentra registrado en el sistema, puede crear su cuenta
-a partir de los siguientes datos:
-        ° Nombre completo
-        ° Cédula
-        ° Correo Electrónico
-        ° Contraseña
-        ° Fecha de creación de la cuenta
-Todo esto con el objetivo de que en la base de datos se almacene toda esta información y así 
-posteriormente el usuario pueda ingresar al sistema.
+- Registration: If the user is not already registered in the system, you can create your account
+from the following data:
+        ° Full name
+        °  ID
+        ° E-mail address
+        ° Password
+        ° Date account was created
+All this with the aim of storing all this information in the database and so on
+later the user can enter the system.
 
-- Menú: En esta sección el usuario podrá encontrar toda la información reacionada con el proyecto.
-        ° En primer lugar, se encuentra el contexto con la información en general sobre el proyecto.
-        ° Luego, se encuentra el portafolio con los datos del usuario y los puntos que ha acumulado hasta
-el momento.
-        ° Por ultimo, se encuentra la información de los encargados del proyecto por si es necesario alguna
-ayuda o para realizar comunicación con ellos.
+- Menu: In this section the user will be able to find all the information related to the project.
+        ° First, the context is found with general information about the project.
+        ° Next, you will find the portfolio with user data and points that you have accumulated up to
+        the moment.
+        ° Finally, you will find the information of those in charge of the project in case any need
+        help or to communicate with them.
+
 
 
 2. DISEÑO DEL SISTEMA:
 
-Para la parte física del sistema es importante tener presente como es el correcto funcionamiento del equipo,
-esto permite que a la hora de ingresar los resiuos, estos se guarden y registren correctamente.
-Es por esto, que en esta sección se explica como debe de utilizarse.
+For the physical part of the system it is important to keep in mind how well the equipment works,
+This allows that at the time of entering the resins, these are saved and recorded correctly.
+This is why this section explains how it should be used.
 
-- 
+        A. Enter the system with your username and password.
+        B. If you do not have a user, press the registration option, the system will take you to the registration page.
+        C. Create your user with full name, ID, email, password and date of creation. Once you have finished completing the format press the "send" button.
+        D. Now press the login option and enter with your username and password.
+        E. Once in the system, please select the action you are going to register, these are: enter waste, view statistics or enter as a cleaning user.
+        F. If you selected the option to "Enter Waste", please enter the material for the system to record and the new points will accumulate.
+        G. Finally, close session.
 
-3. ADVERTENCIA Y PRECAUCIONES:
+  3. WARNING AND PRECAUTIONS:
 
-  - Por favor, lea atentamente este manual del usuario antes de usar el producto. 
-  Siga todas las instrucciones y recomendaciones incluidas en este documento.
-  
-  - Cualquier uso del producto que no cumpla con las indicaciones mencionadas en las instrucciones proporcionadas
-  en este documento   pueden provocar un mal funcionamiento, daño o destrucción del producto
-  
-  - El fabricante no se hace responsable de daños ocurridos como resultado de un uso distinto al
-  incluido en este documento
-  
-  - El fabricante no se hace responsable de los daños directos o indirectos, como resultado 
-  de un uso indebido del mismo.
-  
-  - No tire los aparatos eléctricos ni baterías al contenedor. Una disposición indebida de los mismos 
-  podría poner en peligro el medio ambiente.
-  
-  - No desarme ni arme la máquina sin autorización.
-  
-  - No introduzca partes de su cuerpa al interior de la máquina.
-  
-  - Para  evitar  accidentes,  no  permita  que  los  niños se suban a la máquina.
-  
-  - No  dañe  el  cable  de  alimentación  flexible  ni  el  enchufe  para  evitar  descargas  eléctricas,
-  cortocircuitos e incendio.
-  
-  - Limpie    periódicamente    el    enchufe    para    eliminar   el   polvo   y   suciedad   y   evitar   
-  un   contacto defectuoso.
+- Please read this user manual carefully before using the product.
+Follow all the instructions and recommendations included in this document.
+
+- Any use of the product which does not comply with the indications given in the instructions provided
+in this document may cause malfunction, damage or destruction of the product
+
+- The manufacturer shall not be liable for damage caused as a result of use other than
+included in this document
+
+- The manufacturer is not liable for direct or indirect damage as a result
+of a misuse of it.
+
+- Do not throw electrical appliances or batteries into the container. Improper disposal
+could endanger the environment.
+
+- Do not disarm or assemble the machine without authorization.
+
+- Do not insert parts of your body into the machine.
+
+- To avoid accidents, do not allow children to get on the machine.
+
+- Do not damage the flexible power cord or plug to prevent electric shock,
+short circuits and fire.
+
+- Periodically clean the plug to remove dust and dirt and avoid
+a faulty contact.
+
   
   
  
