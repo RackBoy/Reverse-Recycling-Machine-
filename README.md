@@ -34,3 +34,4 @@ In the third case, the user is provided with a password in order to access direc
 Whatever the case is chosen, the user will be guided by the messages on the screen.
 
 # Testing
+In order to verify the right work of each parts of the project, there were some activities to test the project while the develop process. In particular case, the web page needed to be tested running every iunterfaz, to fix possible bugs and glicthes, that's why tipical users were demanded to use the web page and then provide feedback about it. Due to these comments, the team fixed several visual aspects and added new ones to provide a suitable interfaz. 
