@@ -21,4 +21,27 @@ OBJETIVOS:
 
 1. DISEÑO DE LA INTERFAZ:
 
-El diseño de la interfaz debe garantizar 
+El diseño de debe garantizar que las interfaces y los espacios interactivos, cumplan con 
+las espectativas y necesidades de los usuarios. Es por ello, que se buscó que cada uno
+de los aspectos que los conforman sean lo más faciles de entender y manejar.
+
+- Ingreso: Para poder acceder al sistema, el usuario debe ingresar con su cédula y contraseña
+esto permite que el sistema verifique en la base de datos si el usuario existe o no y así
+permita el ingreso a la página princial.
+
+- Registro: Si el usuario aún no se encuentra registrado en el sistema, puede crear su cuenta
+a partir de los siguientes datos:
+        ° Nombre completo
+        ° Cédula
+        ° Correo Electrónico
+        ° Contraseña
+        ° Fecha de creación de la cuenta
+Todo esto con el objetivo de que en la base de datos se almacene toda esta información y así 
+posteriormente el usuario pueda ingresar al sistema.
+
+- Menú: En esta sección el usuario podrá encontrar toda la información reacionada con el proyecto.
+        ° En primer lugar, se encuentra el contexto con la información en general sobre el proyecto.
+        ° Luego, se encuentra el portafolio con los datos del usuario y los puntos que ha acumulado hasta
+el momento.
+        ° Por ultimo, se encuentra la información de los encargados del proyecto por si es necesario alguna
+ayuda o para realizar comunicación con ellos.
